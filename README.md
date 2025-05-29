@@ -43,20 +43,6 @@ seaborn==0.12.2
 scikit-learn==1.3.0
 jupyter==1.0.0
 
-Installation & Setup
-1. Clone the Repository
-git clone https://github.com/ayushman46/Sales-Predictor.git
-cd Sales-Predictor
-
-2. Create Virtual Environment
-# Create virtual environment
-python -m venv sales_env
-
-# Activate it
-# Windows:
-sales_env\Scripts\activate
-# macOS/Linux:
-source sales_env/bin/activate
 
 3. Install Dependencies
 pip install -r requirements.txt
@@ -157,15 +143,3 @@ API endpoint for real-time predictions
 A/B testing framework integration
 Docker containerization
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Author
-Ayushman
-GitHub: @ayushman46
-LinkedIn: Your LinkedIn
-
-Acknowledgments
-Scikit-learn team for the amazing ML library
-Matplotlib and Seaborn for visualization capabilities
-The open-source community for inspiration and tools
