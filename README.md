@@ -45,8 +45,8 @@ jupyter==1.0.0
 
 Installation & Setup
 1. Clone the Repository
-git clone https://github.com/YOUR_USERNAME/sales-prediction-ml.git
-cd sales-prediction-ml
+git clone https://github.com/ayushman46/Sales-Predictor.git
+cd Sales-Predictor
 
 2. Create Virtual Environment
 # Create virtual environment
@@ -161,8 +161,8 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Author
-Your Name
-GitHub: @your-username
+Ayushman
+GitHub: @ayushman46
 LinkedIn: Your LinkedIn
 
 Acknowledgments
